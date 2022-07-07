@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jacknjones377
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in hacking
+- 🌱 I’m currently learning to be a hacker
+- 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me: jacknjones955@gmail.com
 
 <!---
